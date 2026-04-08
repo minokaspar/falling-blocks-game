@@ -7,7 +7,7 @@ To move the square, use on of the following controls:
 - a (move left) and d (move right) keys
 - Click and drag mouse, the square will follow.
 
-Some blocks are collectable and give you temporary powers.
+Some falling blocks are collectable and give you temporary powers.
 
 The special blocks have different colors. Here is a list with all blocks explained:
 

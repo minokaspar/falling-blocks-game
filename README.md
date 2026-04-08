@@ -1,5 +1,11 @@
 # Falling blocks game
-You are a cube and have to dodge falling blocks.
+You are a square and have to dodge falling blocks.
+
+To move the square, use on of the following controls:
+
+- Left and Right arrow keys
+- a (move left) and d (move right) keys
+- Click and drag mouse, the square will follow.
 
 Some blocks are collectable and give you temporary powers.
 
